@@ -186,6 +186,7 @@ CREDITS:
 - https://github.com/iLLeniumStudios/is-statushud
 - https://github.com/tnj-development/tnj-notify
 
+![beanmachinemenu](https://user-images.githubusercontent.com/99845881/218348724-56fd4ca0-8821-45a1-a636-899b69f63400.png)
 ![cyberbarmenu](https://user-images.githubusercontent.com/99845881/217463124-bb440da1-cf41-4508-bbf0-dac24787ce07.png)
 ![pizzathismenu](https://user-images.githubusercontent.com/99845881/217463126-a65f6a53-fcdf-483b-8694-286a4b2ad104.png)
 ![uwucafemenu2](https://user-images.githubusercontent.com/99845881/217463151-584c8e90-7cc1-4da7-bebd-48375903add0.png)
